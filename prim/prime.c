@@ -1,4 +1,4 @@
 int main(void){
-    print("prime fixedo");
+    print("prime fixed");
     return 0;
 }
