@@ -1,4 +1,6 @@
+Readme for the GitTT project.
 
-This is readme
+It contains details about the project.
 
-Features are located into the features/ folder
+It can be built by running make
+Features can be found in the features/ folder.
