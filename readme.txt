@@ -1,3 +1,4 @@
 
 This is readme
-Something else
+
+Features are located into the features/ folder
